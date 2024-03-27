@@ -1,4 +1,4 @@
-package com.example.methodiainternship;
+package com.example.methodiainternship.exercises;
 
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
@@ -57,5 +57,6 @@ public class ReadDataFromExcel {
 }
 
 /* Решението към задачата номер 5.
-В pom.xml добавих няколко зависимости.
+В pom.xml добавих Apache POI зависимостта.
+Програмата чете всеки cell имайки предвид неговия вид (STRING, NUMERIC, BOOLEAN или FORMULA).
  */

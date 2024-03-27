@@ -1,4 +1,4 @@
-package com.example.methodiainternship;
+package com.example.methodiainternship.exercises;
 
 import java.util.HashMap;
 import java.util.Map;
