@@ -11,7 +11,6 @@ public class LoopsForArrayList {
         list.add("D");
 
         arrayItirator(list);
-
     }
 
     public static void arrayItirator(ArrayList<String> list) {
@@ -29,6 +28,6 @@ public class LoopsForArrayList {
 }
 
 
-/* Решението към задачата номер 3.
-   Метод arrayItirator обходи ArrayList с while loop и for look, и отпечатва всеки елемент.
+/* Задача номер 3.
+   Метод arrayItirator обхожда ArrayList с while loop и for loop, и отпечатва всеки елемент.
  */

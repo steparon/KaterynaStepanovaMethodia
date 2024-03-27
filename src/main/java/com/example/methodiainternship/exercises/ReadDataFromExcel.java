@@ -56,7 +56,7 @@ public class ReadDataFromExcel {
     }
 }
 
-/* Решението към задачата номер 5.
+/* Задача номер 5.
 В pom.xml добавих Apache POI зависимостта.
 Програмата чете всеки cell имайки предвид неговия вид (STRING, NUMERIC, BOOLEAN или FORMULA).
  */
